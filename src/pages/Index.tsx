@@ -98,10 +98,13 @@ const Index = () => {
             </div>
           </div>
           <h1 className="text-5xl font-bold mb-4 font-heading">
-            Анна Смирнова
+            Филиппова Айаана
           </h1>
           <p className="text-xl text-muted-foreground mb-8">
-            Ученица 10 класса · Москва
+            Ученица 11а класса · МБОУ "Нюрбинский технический лицей им.А.Н.Чусовского"
+          </p>
+          <p className="text-sm text-muted-foreground mb-8">
+            МР "Нюрбинский район" РС(Я)
           </p>
           <div className="flex gap-3 justify-center flex-wrap">
             <Badge variant="secondary" className="px-4 py-2 text-sm">
@@ -124,9 +127,9 @@ const Index = () => {
           </h2>
           <Card className="p-8 shadow-lg border-purple-100">
             <p className="text-lg leading-relaxed text-muted-foreground mb-6">
-              Привет! Меня зовут Анна, мне 16 лет. Я увлекаюсь точными науками, 
-              особенно математикой и информатикой. В свободное время люблю рисовать, 
-              читать книги и помогать в приюте для животных.
+              Привет! Меня зовут Айаана, я учусь в 11а классе Нюрбинского технического лицея 
+              имени А.Н.Чусовского. Я увлекаюсь точными науками, особенно математикой и информатикой. 
+              В свободное время люблю рисовать, читать книги и помогать в приюте для животных.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground">
               Мечтаю стать программистом и создавать полезные приложения, которые 
@@ -210,7 +213,7 @@ const Index = () => {
                 className="gap-2 bg-gradient-to-r from-primary to-secondary hover:opacity-90 transition-opacity"
               >
                 <Icon name="Mail" size={20} />
-                anna.smirnova@example.com
+                ajaana.filippova@example.com
               </Button>
               <Button 
                 size="lg"
@@ -227,7 +230,7 @@ const Index = () => {
 
       <footer className="py-8 px-6 bg-gradient-to-r from-primary to-secondary text-white text-center">
         <p className="text-sm">
-          © 2024 Анна Смирнова. Создано с любовью ✨
+          © 2024 Филиппова Айаана. Создано с любовью ✨
         </p>
       </footer>
     </div>
