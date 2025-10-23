@@ -28,7 +28,7 @@ const Index = () => {
   const hobbies = [
     {
       title: "Волейбол",
-      description: "Спортивные игры и командная работа",
+      description: "Член сборной команды лицея",
       icon: "Trophy"
     },
     {
