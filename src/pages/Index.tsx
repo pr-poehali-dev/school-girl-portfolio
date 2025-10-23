@@ -27,14 +27,14 @@ const Index = () => {
 
   const hobbies = [
     {
+      title: "Волейбол",
+      description: "Спортивные игры и командная работа",
+      icon: "Trophy"
+    },
+    {
       title: "Рисование",
       description: "Акварель и графика",
       icon: "Palette"
-    },
-    {
-      title: "Программирование",
-      description: "Python и веб-разработка",
-      icon: "Code"
     },
     {
       title: "Волонтерство",
@@ -114,7 +114,7 @@ const Index = () => {
               Химия и биология
             </Badge>
             <Badge variant="secondary" className="px-4 py-2 text-sm">
-              Творческая личность
+              Волейболистка
             </Badge>
           </div>
         </div>
