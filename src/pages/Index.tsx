@@ -108,7 +108,7 @@ const Index = () => {
           </p>
           <div className="flex gap-3 justify-center flex-wrap">
             <Badge variant="secondary" className="px-4 py-2 text-sm">
-              Отличница
+              Хорошистка
             </Badge>
             <Badge variant="secondary" className="px-4 py-2 text-sm">
               Химия и биология
